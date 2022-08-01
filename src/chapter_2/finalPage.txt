@@ -1,0 +1,7 @@
+Made changes
+
+commit --> push
+
+remote -> local
+
+pull
